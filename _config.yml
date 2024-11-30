@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhen Cao"
-description              : " PHD student of Wuhan University "
+title                    : "Huang Weihong(黄蔚鸿)"
+description              : "Master student of Wuhan University "
 repository               : "a4152684/a4152684.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhen Cao (曹臻)"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Huang Weihong (黄蔚鸿)"
+  avatar           : "images/huangweihong.jpg"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=2lbfTMcAAAAJ"
-  email            : "zhen.cao@whu.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Zhen-Cao-37"
+  googlescholar    : "https://scholar.google.com/citations?user=_6Q7I6IAAAAJ&hl=en"
+  email            : "wongwh@whu.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : a4152684
+  github           : WeihongHuang2001
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0007-4689-6083"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
