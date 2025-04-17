@@ -63,6 +63,7 @@ Shuai Zhang, **Weihong Huang**, Yiping Chen†, Shuhang Zhang†, Wuming Zhang, 
 - *2020*, First Prize Scholarship, Sun Yat-Sen University
 - *2021 $\&$ 2022*, Second Prize Scholarship, Sun Yat-Sen University
 
-# 📖 Education
+# 📖 Education & Work Experiences
 - *2023 - Now*, LIESMARS, Wuhan University, M.S. in Photogrammetry and Remote Sensing
+- *2025*, DeepRoute.ai, Shenzhen, Perception Algorithm Intern 
 - *2019 - 2023*, SGEG, Sun Yat-Sen University, B.S. in Remote Sensing 
