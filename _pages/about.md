@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🙈 About me
 I am a master student at [LIESMARS](https://liesmars.whu.edu.cn/), Wuhan University. My advisor is [Prof. Zhen Dong](https://dongzhenwhu.github.io/index.html). Previously, I obtained my B.Eng degree from [SGES](https://sges.sysu.edu.cn/) of Sun Yat-Sen University.
 
 My research focuses on 3D Computer Vision, particularly including scene perception and interactive point cloud segmentation. During my internship at [Deeproute.ai](http://www.deeproute.ai/), I assisted in object detection and data engineering for autonomous driving. If you are interested in my research, feel free to contact me at <wongwh@whu.edu.cn>!
@@ -25,7 +26,6 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 
 <!-- # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Our paper [LaneMapping: A benchmark approach and dataset for large-scale lane mapping from MLS point clouds](https://www.sciencedirect.com/science/article/pii/S156984322400493X) is accepted by JAG 2024!
-- *2024.07*: &nbsp;🎉🎉 Our paper [EGIINet: Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/pdf/2407.02887) is accepted by ECCV 2024!
 - *2024.05*: &nbsp;🎉🎉 Our paper [SparseDC: Depth Completion From Sparse and Non-uniform Inputs](https://doi.org/10.1016/j.inffus.2024.102470) is accepted by Informarion Fusion!
 - *2022.11*: &nbsp;🎉🎉 Our paper [KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion](https://ojs.aaai.org/index.php/AAAI/article/view/25101) is accepted by AAAI 2023! -->
 
@@ -63,7 +63,9 @@ Shuai Zhang, **Weihong Huang**, Yiping Chen†, Shuhang Zhang†, Wuming Zhang, 
 - *2020*, First Prize Scholarship, Sun Yat-Sen University
 - *2021 $\&$ 2022*, Second Prize Scholarship, Sun Yat-Sen University
 
-# 📖 Education & Work Experiences
+# 📖 Education
 - *2023 - Now*, LIESMARS, Wuhan University, M.S. in Photogrammetry and Remote Sensing
-- *2025*, DeepRoute.ai, Shenzhen, Perception Algorithm Intern 
 - *2019 - 2023*, SGEG, Sun Yat-Sen University, B.S. in Remote Sensing 
+
+# 📖 Work Experience
+- *2025*, Deeproute.ai, Shenzhen, Perception Algorithm Intern 
