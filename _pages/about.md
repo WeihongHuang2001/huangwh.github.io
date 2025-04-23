@@ -16,11 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-## About Me
 
-I am a second-year master student in the [LIESMARS](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My advisor is Prof. [Zhen Dong](https://dongzhenwhu.github.io/index.html).  Previously, I obtained my B.Eng degree at [SGES](https://sges.sysu.edu.cn/) of Sun Yat-Sen University.
+I am a master student at [LIESMARS](https://liesmars.whu.edu.cn/), Wuhan University. My advisor is [Prof. Zhen Dong](https://dongzhenwhu.github.io/index.html). Previously, I obtained my B.Eng degree from [SGES](https://sges.sysu.edu.cn/) of Sun Yat-Sen University.
 
-My research interest lies in the field of 3D Computer Vision, particularly including point cloud segmentation and scene understanding. Besides, I am conducting some researches related to intelligent transportation systems (ITS). If you are interested in my research, feel free to contact me at <wongwh@whu.edu.cn>!
+My research focuses on 3D Computer Vision, particularly including scene perception and interactive point cloud segmentation. During my internship at [Deeproute.ai](http://www.deeproute.ai/), I assisted in object detection and data engineering for autonomous driving. If you are interested in my research, feel free to contact me at <wongwh@whu.edu.cn>!
 
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
@@ -38,7 +37,7 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 
 INF-PCA: Implicit Neural Field-Based Interactive Point Cloud Semantic Annotation
 
-Chong Liu*, Xu Han*, **Weihong Huang**, Chen Long, Wang Wang, Zhen Dong†, Bisheng Yang†
+Chong Liu\*, Xu Han\*, **Weihong Huang**, Chen Long, Wang Wang, Zhen Dong†, Bisheng Yang†
 
 <span style="color:red">**TITS 2024 (IF: 7.9)**</span>
 
