@@ -14,6 +14,16 @@
 <link rel="stylesheet" href="assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
-<head>
-  <base target="_blank">
-</head>
+
+<!-- Auto add target="_blank" and rel="noopener noreferrer" for external links -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll('a').forEach(function(link) {
+      var href = link.getAttribute('href');
+      if (href && !href.startsWith('#') && !href.startsWith('/') && !href.startsWith('mailto:') && !href.startsWith('javascript:')) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+  });
+</script>

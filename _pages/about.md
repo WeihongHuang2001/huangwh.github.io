@@ -29,7 +29,10 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 - *2024.05*: &nbsp;🎉🎉 Our paper [SparseDC: Depth Completion From Sparse and Non-uniform Inputs](https://doi.org/10.1016/j.inffus.2024.102470) is accepted by Informarion Fusion!
 - *2022.11*: &nbsp;🎉🎉 Our paper [KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion](https://ojs.aaai.org/index.php/AAAI/article/view/25101) is accepted by AAAI 2023! -->
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Publications
+
 \* denotes equal contributions and † denotes the corresponding author.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='publication/INF-PCA.png' alt="sym" width="100%"></div></div>
@@ -58,14 +61,23 @@ Shuai Zhang, **Weihong Huang**, Yiping Chen†, Shuhang Zhang†, Wuming Zhang, 
 </div>
 </div>
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
+
 - *2020*, Wanglaoji Scholarship, Sun Yat-Sen University
 - *2020*, First Prize Scholarship, Sun Yat-Sen University
 - *2021 $\&$ 2022*, Second Prize Scholarship, Sun Yat-Sen University
 
+<span class='anchor' id='education'></span>
+
 # 📖 Education
+
 - *2023 - Now*, LIESMARS, Wuhan University, M.S. in Photogrammetry and Remote Sensing
 - *2019 - 2023*, SGEG, Sun Yat-Sen University, B.S. in Remote Sensing 
 
+<span class='anchor' id='work-experience'></span>
+
 # 📖 Work Experience
+
 - *2025*, Deeproute.ai, Shenzhen, Perception Algorithm Intern 

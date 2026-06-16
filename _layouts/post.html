@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="post">
+  <article class="post__content">
+    <header class="post__header">
+      <h1 class="post__title">{{ page.title }}</h1>
+      <p class="post__meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+        {% if page.tags %}
+          <span class="post__tags">
+            {% for tag in page.tags %}
+              <span class="tag">{{ tag }}</span>
+            {% endfor %}
+          </span>
+        {% endif %}
+      </p>
+    </header>
+
+    <div class="post__body">
+      {{ content }}
+    </div>
+  </article>
+
+  <div class="post__nav">
+    <a href="{{ site.baseurl }}/blog/">← 返回博客列表</a>
+  </div>
+</div>
