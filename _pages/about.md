@@ -17,12 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<!--
 # 🙈 About me
 I am a master student at [LIESMARS](https://liesmars.whu.edu.cn/), Wuhan University. My advisor is [Prof. Zhen Dong](https://dongzhenwhu.github.io/index.html). Previously, I obtained my B.Eng degree from [SGES](https://sges.sysu.edu.cn/) of Sun Yat-Sen University.
 
 My research focuses on 3D Computer Vision, particularly including scene perception and interactive point cloud segmentation. During my internship at [Deeproute.ai](http://www.deeproute.ai/), I assisted in object detection and data engineering for autonomous driving. If you are interested in my research, feel free to contact me at <wongwh@whu.edu.cn>!
 
 I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
+-->
+
+# 🙈 About me
+I am a Perception Algorithm Engineer at [Deeproute.ai](http://www.deeproute.ai/). I received my master's degree in Photogrammetry and Remote Sensing from [LIESMARS](https://liesmars.whu.edu.cn/), Wuhan University, where I was advised by [Prof. Zhen Dong](https://dongzhenwhu.github.io/index.html). I also hold a B.Eng in Remote Sensing from Sun Yat-Sen University.
+
+My research background lies in 3D Computer Vision, with a focus on interactive point cloud segmentation. I have published work on point cloud semantic annotation and segmentation.
+
+Also, I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), a research group working on point cloud processing, including enhancement, registration, localization, segmentation, and detection. Feel free to reach out via [email](mailto:wongwh@whu.edu.cn) for collaborations in both academia and industry.
+
 
 <!-- # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Our paper [LaneMapping: A benchmark approach and dataset for large-scale lane mapping from MLS point clouds](https://www.sciencedirect.com/science/article/pii/S156984322400493X) is accepted by JAG 2024!
@@ -73,11 +83,12 @@ Shuai Zhang, **Weihong Huang**, Yiping Chen†, Shuhang Zhang†, Wuming Zhang, 
 
 # 📖 Education
 
-- *2023 - Now*, LIESMARS, Wuhan University, M.S. in Photogrammetry and Remote Sensing
+- *2023 - 2026*, LIESMARS, Wuhan University, M.S. in Photogrammetry and Remote Sensing
 - *2019 - 2023*, SGEG, Sun Yat-Sen University, B.S. in Remote Sensing 
 
 <span class='anchor' id='work-experience'></span>
 
 # 📖 Work Experience
 
-- *2025*, Deeproute.ai, Shenzhen, Perception Algorithm Intern 
+- *2025*, Deeproute.ai, Perception Algorithm Intern 
+- *2026 - Now* Deeproute.ai, Perception Algorithm
